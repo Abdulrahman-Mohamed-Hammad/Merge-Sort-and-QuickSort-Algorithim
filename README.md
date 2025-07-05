@@ -1,1 +1,55 @@
-# Merge-Sort-and-QuickSort-Algorithim
+
+# Merge Sort and QuickSort Algorithim
+
+Implementation of Merge Sort and QuickSort algorithms for efficient array sorting.
+
+
+## Usage / Examples
+
+```bash
+# Input Terminal 
+SIZE OF LIST : 5
+
+ELEMENTS OF LIST:
+ELEMENT 1: -9
+ELEMENT 2: 1
+ELEMENT 3: 0
+ELEMENT 4: -8
+ELEMENT 5: 100
+
+1-QUICKSORT :
+2-MERGESORT :
+3-ALL OF THEM :
+
+ENTER YOUR CHOOSE : 3
+
+1-SORT :
+2-INVERSE SORT :
+
+ENTER YOUR CHOOSE : 1
+SORTED LIST :
+QUICKSORT
+x=-9
+x=-8
+x=0
+x=1
+x=100
+
+1-SORT :
+2-INVERSE SORT :
+
+ENTER YOUR CHOOSE : 2
+INVERSELY SORTED LIST :
+MERGSORT
+x=100
+x=1
+x=0
+x=-8
+x=-9
+
+QUICKSORT SWAPS : 9
+QUICKSORT COMPARISONS : 8
+MERGESORT SWAPS : 7
+MERGESORT COMPARISONS : 7
+
+
